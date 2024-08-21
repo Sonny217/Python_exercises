@@ -9,4 +9,4 @@ this is just one of two or even more files on this beautiful and dynamic languag
 thanks Guido van Rossum and thanks to the wonderful 
 community for its many courses to learn from scratch.
 
-(https://github.com/user-attachments/assets/907efbef-54fe-4492-9380-27998b653943)
+https://github.com/user-attachments/assets/907efbef-54fe-4492-9380-27998b653943
